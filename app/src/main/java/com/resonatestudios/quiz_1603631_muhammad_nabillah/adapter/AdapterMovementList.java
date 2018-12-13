@@ -1,4 +1,4 @@
-package com.resonatestudios.quiz_1603631_muhammad_nabillah_1605910_putri_n_j.adapter;
+package com.resonatestudios.quiz_1603631_muhammad_nabillah.adapter;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.resonatestudios.quiz_1603631_muhammad_nabillah_1605910_putri_n_j.R;
+import com.resonatestudios.quiz_1603631_muhammad_nabillah.R;
 
 import java.util.ArrayList;
 

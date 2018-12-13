@@ -1,4 +1,4 @@
-package com.resonatestudios.quiz_1603631_muhammad_nabillah_1605910_putri_n_j;
+package com.resonatestudios.quiz_1603631_muhammad_nabillah;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.resonatestudios.quiz_1603631_muhammad_nabillah_1605910_putri_n_j", appContext.getPackageName());
+        assertEquals("com.resonatestudios.quiz_1603631_muhammad_nabillah", appContext.getPackageName());
     }
 }

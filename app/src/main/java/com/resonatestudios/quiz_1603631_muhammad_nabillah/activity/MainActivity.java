@@ -1,4 +1,4 @@
-package com.resonatestudios.quiz_1603631_muhammad_nabillah_1605910_putri_n_j.activity;
+package com.resonatestudios.quiz_1603631_muhammad_nabillah.activity;
 
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
@@ -14,8 +14,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.resonatestudios.quiz_1603631_muhammad_nabillah_1605910_putri_n_j.R;
-import com.resonatestudios.quiz_1603631_muhammad_nabillah_1605910_putri_n_j.adapter.AdapterMovementList;
+import com.resonatestudios.quiz_1603631_muhammad_nabillah.R;
+import com.resonatestudios.quiz_1603631_muhammad_nabillah.adapter.AdapterMovementList;
 
 import java.util.ArrayList;
 
